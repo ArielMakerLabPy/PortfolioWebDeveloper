@@ -28,8 +28,8 @@ nav .nav-right-section a{
     margin-right: 10px;
     color: #000000;
 }
-nav .nav-right-section .menu.icon{
-    background-image: ;
+nav .nav-right-section .menu-icon{
+    background-image: url(https://img.icons8.com/ios-filled/50/000000/squared-menu.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
