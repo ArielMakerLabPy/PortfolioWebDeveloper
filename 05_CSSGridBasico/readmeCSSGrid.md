@@ -9,3 +9,8 @@ Place: y place indica una alineación horizontal y vetical al mismo tiempo.
 Item: indica que es para todos los ítems que están dentro de nuestra grilla.
 content: es el contenido para la grilla completa
 self: Se le da a cada uno de los elementos de la grilla.
+
+## Propiedades de ubicación
+
+grid-column-star
+grid-column-end
